@@ -143,7 +143,8 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 甘肃卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 炫动卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+兵团卫视,http://test5.btzx.com.cn/live/bt011ws.stream/chunklist_w278606042.m3u8
+兵团卫视,http://test5.btzx.com.cn/live/bt011ws.stream/playlist.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
 
