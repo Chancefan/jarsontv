@@ -11,13 +11,13 @@
 			"jar": "https://github.com/Chancefan/jarsontv/blob/main/custom_spider.jar;md5;a242cdd71961fa91fc12c335218440eb"
 		},
 		{
-			"key": "苹果🍎",
-    "name": "主力源",
-    "type": 3,
-    "api": "csp_LiteApple",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+			"key": "苹果",
+  			"name": "🍎主力源",
+   			"type": 3,
+    			"api": "csp_LiteApple",
+	    		"searchable": 1,
+    			"quickSearch": 1,
+    			"filterable": 1
 		},
 		{
 			"key": "csp_Kunyu77",
