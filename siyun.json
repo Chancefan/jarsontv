@@ -1,14 +1,14 @@
 {
 	"sites": [
 		{
+			"jar": "https://github.com/Chancefan/jarsontv/blob/main/custom_spider.jar;md5;a242cdd71961fa91fc12c335218440eb",
 			"key": "AIDI",
 			"name": "艾迪",
 			"type": 3,
 			"api": "csp_Aidi",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://github.com/Chancefan/jarsontv/blob/main/custom_spider.jar;md5;a242cdd71961fa91fc12c335218440eb"
+			"filterable": 1
 		},
 		{
 			"key": "苹果",
