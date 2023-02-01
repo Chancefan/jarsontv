@@ -1283,7 +1283,7 @@
 				{
 					"name": "live",
 					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL0NoYW5jZWZhbi9qYXJzb250di9ibG9iL21haW4vdHZsaXZlLnR4dA=="
+						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQ2hhbmNlZmFuL2phcnNvbnR2L21haW4vdHZsaXZlLnR4dA=="
 					]
 				}
 			]
